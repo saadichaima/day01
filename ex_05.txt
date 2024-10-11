@@ -1,0 +1,5 @@
+JSFiddle Console (beta). Turn on/off in Editor settings.
+☁️ "Running fiddle"
+"<a class='gotoLine' href='#47:8'>47:8</a> Uncaught SyntaxError: Unexpected identifier 'Code'"
+☁️ "Running fiddle"
+"<a class='gotoLine' href='#47:8'>47:8</a> Uncaught SyntaxError: Unexpected identifier 'Code'"
